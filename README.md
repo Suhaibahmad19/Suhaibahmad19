@@ -27,8 +27,8 @@ Passionate about coding and constantly learning new technologies. I love turning
 ## 📫 Get in Touch
 
 - **Email:** [suhaibraza@gmail.com](mailto:suhaibraza@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#https://www.linkedin.com/in/suhaibahmad42/)
-- **GitHub:** [Your GitHub Profile](#https://github.com/Suhaibahmad19/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/suhaibahmad42/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Suhaibahmad19/)
 
 ---
 
