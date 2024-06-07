@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Suhaib Ahmad
 
 🎓 **Final Year Computer Science Student** at FAST - NUCES, Lahore  
