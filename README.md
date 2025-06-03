@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Suhaib Ahmad
 
 🎓 **Final Year Computer Science Student** at FAST - NUCES, Lahore  
-🔍 **Aspiring Software Developer** | **Quality Assurance Enthusiast** | **Backend Developer**
+🔍 **Aspiring Software Developer** | **Data Science Enthusiast** | **Backend Developer**
 
 ---
 
